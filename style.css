@@ -1,7 +1,7 @@
 /* Para los elementos con ambas clases (es un and) */
 .avatar.proportioned {
     width: 300px;
-    height: au to;
+    height: auto;
 }
 
 .avatar.distorted {
